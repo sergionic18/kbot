@@ -16,7 +16,7 @@ It responds to the `/start hello` command with a greeting and the current versio
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/kbot.git
+   git clone https://github.com/sergionic18/kbot.git
    cd kbot
    ```
 
